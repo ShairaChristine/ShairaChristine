@@ -2,7 +2,7 @@
 - 👀 I’m interested in Art and Programming
 - 🌱 I’m currently learning to master Javascript Frameworks and Zoho One Apps
 - 💞️ I’m looking to collaborate on Javascript Project
-- 📫 How to reach me shaics03@gmail.
+- 📫 How to reach me shaics03@gmail.com
 
 <!---
 ShairaChristine/ShairaChristine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
